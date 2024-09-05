@@ -31,14 +31,6 @@ A Busca em Profundidade (DFS) é um algoritmo de percurso de grafos que aprofund
 
 O algoritmo de Dijkstra é um algoritmo de caminho mínimo que encontra o caminho de custo mínimo entre um vértice e todos os outros vértices em um grafo ponderado.
 
-### Kruskal
-
-O algoritmo de Kruskal é um algoritmo guloso para encontrar a árvore geradora mínima (MST) de um grafo ponderado não direcionado.
-
-### Prim
-
-O algoritmo de Prim é outro algoritmo guloso para encontrar a árvore geradora mínima (MST) de um grafo ponderado não direcionado.
-
 ## Como Usar
 
 1. Acesse o Google Colaboratory (https://colab.research.google.com).
